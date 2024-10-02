@@ -4,19 +4,20 @@ import Money from '../component/Money'
 import Product from '../component/Product'
 import Receipt from '../component/Receipt'
 import { Container } from '@mui/material'
+import Footer from '../component/Footer'
 
 
 function Home() {
 
     return (
-        <div>
+        <div className="App">
             <Navbar />
             <Container maxWidth='md'>
                 <Money />
                 <Receipt />
                 <Product />
-                
             </Container>
+            <Footer/>
         </div>
     )
 }
