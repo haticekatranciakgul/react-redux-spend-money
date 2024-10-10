@@ -1,5 +1,5 @@
 ## Live
-[https://github.com/haticekatranciakgul/](https://haticekatranciakgul.github.io/react-redux-spend-money)
+[https://github.com/haticekatranciakgul/](https://haticekatranciakgul.github.io/react-redux-spend-money/)
 
 
 # Getting Started with Create React App
