@@ -47,7 +47,7 @@ function ProductCard({ item }) {
                     sx={{ height: '150px', WebkitBackgroundSize: 'contain', width:'100%' }}
                     image={item.img}
                     alt={item.title}
-                    fullWidth
+                    
                 />
 
                 </Box>

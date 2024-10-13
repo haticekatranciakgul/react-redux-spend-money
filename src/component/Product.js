@@ -14,8 +14,8 @@ function Product() {
 
         {
           data.map((item) =>
-            <Grid size={4}>
-              <ProductCard key={item.id} item={item} ></ProductCard>
+            <Grid size={4} key={item.id} >
+              <ProductCard item={item} ></ProductCard>
             </Grid>
           )
         }
